@@ -1,0 +1,11 @@
+# 当系统完全开机进入桌面时触发
+on property:sys.boot_completed=1
+    # 延迟 30 秒，给所有 GSI 兼容性驱动留出充足的加载时间
+    wait_for_prop sys.boot_completed 1 30
+    
+    # 1. 核心功能：由拥有最高特权的 init 进程直接向内核写入严格模式
+    write /sys/fs/selinux/enforce 1
+
+    # 2. 日志功能：向 /data/adb/selinux_status.log 写入一次性日志（自动覆盖旧日志）
+    # 注意：init 语法中 write 命令的参数如果包含空格，必须用双引号包裹
+    write /data/local/tmp/selinux_status.log "SELinux status has been hard-set to Enforcing after 30s boot delay."

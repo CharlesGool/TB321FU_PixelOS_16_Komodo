@@ -1,0 +1,35 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Lenovo
+ro.product.system_ext.device=TB321FU
+ro.product.system_ext.manufacturer=Lenovo
+ro.product.system_ext.model=TB321FU
+ro.product.system_ext.name=TB321FU
+ro.product.model_for_attestation=Pixel 9 Pro XL
+ro.product.brand_for_attestation=google
+ro.product.name_for_attestation=komodo
+ro.product.device_for_attestation=komodo
+ro.product.manufacturer_for_attestation=Google
+ro.system_ext.build.date=Sun Nov 23 04:26:50 UTC 2025
+ro.system_ext.build.date.utc=1763872010
+ro.system_ext.build.fingerprint=Lenovo/TB321FU/TB321FU:16/BP4A.260105.004/14483051:user/release-keys
+ro.system_ext.build.id=BP4A.260105.004
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=14483051
+ro.system_ext.build.version.release=16
+ro.system_ext.build.version.release_or_codename=16
+ro.system_ext.build.version.sdk=36
+ro.system_ext.build.version.sdk_full=36.1
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.camerax.extensions.enabled=true
+remote_provisioning.use_cert_processor=false
+ro.adb.secure=1
+ro.audio.ihaladaptervendorextension_enabled=true
+ro.config.isolated_compilation_enabled=true
+# end of file
+

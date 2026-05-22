@@ -1,0 +1,61 @@
+sudo rm -rfv \
+system/product/app/CalculatorGooglePrebuilt_85006267 \
+system/product/app/CalendarGooglePrebuilt \
+system/product/app/SwitchAccessPrebuilt_1.16.0.726766860 \
+system/product/priv-app/HealthIntelligencePrebuilt-1762 \
+system/product/priv-app/TipsPrebuilt_v6.0.0.734377952 \
+system/product/app/MeetPrebuilt_2025051 \
+system/product/priv-app/GoogleDialer \
+system/product/app/GoogleContacts \
+system/product/priv-app/PrebuiltBugle \
+system/product/app/MeetPrebuilt_20250518 \
+system/product/priv-app/SafetyHubPrebuilt
+
+
+root@gzcheng-ubutud:~/MyProject/Y700/TIK3-master/TI_Pixel-komodo-16/Pixel# sudo rm -rfv \
+> system/product/app/CalculatorGooglePrebuilt_85006267 \
+> system/product/app/CalendarGooglePrebuilt \
+> system/product/app/SwitchAccessPrebuilt_1.16.0.726766860 \
+> system/product/priv-app/HealthIntelligencePrebuilt-1762 \
+> system/product/priv-app/TipsPrebuilt_v6.0.0.734377952 \
+> system/product/app/MeetPrebuilt_2025051 \
+> system/product/priv-app/GoogleDialer \
+> system/product/app/GoogleContacts \
+> system/product/priv-app/PrebuiltBugle
+removed 'system/product/app/CalculatorGooglePrebuilt_85006267/CalculatorGooglePrebuilt_85006267.apk'
+removed directory 'system/product/app/CalculatorGooglePrebuilt_85006267'
+removed 'system/product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk'
+removed directory 'system/product/app/CalendarGooglePrebuilt'
+removed 'system/product/app/SwitchAccessPrebuilt_1.16.0.726766860/SwitchAccessPrebuilt_1.16.0.726766860.apk'
+removed directory 'system/product/app/SwitchAccessPrebuilt_1.16.0.726766860'
+removed 'system/product/priv-app/HealthIntelligencePrebuilt-1762/HealthIntelligencePrebuilt-1762.apk'
+removed directory 'system/product/priv-app/HealthIntelligencePrebuilt-1762'
+removed 'system/product/priv-app/TipsPrebuilt_v6.0.0.734377952/TipsPrebuilt_v6.0.0.734377952.apk'
+removed directory 'system/product/priv-app/TipsPrebuilt_v6.0.0.734377952'
+removed 'system/product/priv-app/GoogleDialer/GoogleDialer.apk'
+removed 'system/product/priv-app/GoogleDialer/GoogleDialer.apk.prof'
+removed directory 'system/product/priv-app/GoogleDialer'
+removed 'system/product/app/GoogleContacts/GoogleContacts.apk'
+removed 'system/product/app/GoogleContacts/GoogleContacts.apk.prof'
+removed directory 'system/product/app/GoogleContacts'
+removed 'system/product/priv-app/PrebuiltBugle/PrebuiltBugle.apk'
+removed directory 'system/product/priv-app/PrebuiltBugle'
+root@gzcheng-ubutud:~/MyProject/Y700/TIK3-master/TI_Pixel-komodo-16/Pixel# 
+
+root@gzcheng-ubutud:~/MyProject/Y700/TIK3-master/TI_Pixel-komodo-16/Pixel# sudo rm -rfv \
+> system/product/app/CalculatorGooglePrebuilt_85006267 \
+> system/product/app/CalendarGooglePrebuilt \
+> system/product/app/SwitchAccessPrebuilt_1.16.0.726766860 \
+> system/product/priv-app/HealthIntelligencePrebuilt-1762 \
+> system/product/priv-app/TipsPrebuilt_v6.0.0.734377952 \
+> system/product/app/MeetPrebuilt_2025051 \
+> system/product/priv-app/GoogleDialer \
+> system/product/app/GoogleContacts \
+> system/product/priv-app/PrebuiltBugle \
+> system/product/app/MeetPrebuilt_20250518 \
+> system/product/priv-app/SafetyHubPrebuilt
+removed 'system/product/app/MeetPrebuilt_20250518/MeetPrebuilt_20250518.apk'
+removed directory 'system/product/app/MeetPrebuilt_20250518'
+removed 'system/product/priv-app/SafetyHubPrebuilt/SafetyHubPrebuilt.apk'
+removed directory 'system/product/priv-app/SafetyHubPrebuilt'
+

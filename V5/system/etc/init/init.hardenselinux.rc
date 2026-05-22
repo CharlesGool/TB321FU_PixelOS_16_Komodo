@@ -1,0 +1,4 @@
+on property:sys.boot_completed=1
+    wait_for_prop sys.boot_completed 1 10
+	write /data/local/tmp/selinux_status.log "SELinux status has been hard-set to Enforcing after 10s boot delay."
+    write /sys/fs/selinux/enforce 1
