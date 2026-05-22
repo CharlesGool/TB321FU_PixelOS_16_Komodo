@@ -1,4 +1,5 @@
-# TB321FU_PixelOS_16_Komodo修改来自[Mystic-GSI](https://sourceforge.net/projects/mystic-gsi-updates/),原机型为Pixel 9 Pro XL(代号Komodo)
+# TB321FU_PixelOS_16_Komodo
+修改来自[Mystic-GSI](https://sourceforge.net/projects/mystic-gsi-updates/),原机型为Pixel 9 Pro XL(代号Komodo)
 
 Bug: 
 
